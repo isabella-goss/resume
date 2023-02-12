@@ -7,27 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Isabella Goss
+    tagline: Technical Writer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: forstisabella@gmail.com
+    phone: ‪(804) 413-6659‬
+    timezone: America/New York Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:  #do not add http://
+    linkedin: gossisabella
+    xing:
+    github: goss-isabella
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1cw9XMZJEwWCiJGOIO9ycB5mLVfWy3zTP/view?usp=sharing
 
     languages:
       title: Languages
@@ -35,98 +35,75 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: German
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom:
+          level:
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hand Embroidery
           link:
 
-        - item: Snowboarding
+        - item: Baking
           link:
 
-        - item: Cooking
+        - item: Reading
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an early-career technical writer with two years of software documentation experience. 
+      I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. 
+      I'm a multifaceted technical communicator: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS in Graphics Communications
+        university: NC State University
+        time: 2017-2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+         With a major in Graphics Communications and two minors in Technical and Scientific Communication and Science Communication, I spent four years living and learning on NC State's Main campus.
+         While on campus, I served as the president of the residence hall assosciation, logged over 100+ volunteer hours on and around campus, and worked for three on-campus departments!
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree:
+        university:
+        time:
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Writer II
+        time: October 2021 - Present
+        company: Twilio Segment, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I currently document Segment's ingestion and processing, governance, and foundations product areas. 
+          Responsibilities of the job include:
+            - Distilling information from various sources to produce concise, accurate, and timely product and API documentation.
+            - Identifying and addressing areas of improvement within existing documentation.
+            - Leading reviews of peer- and contributor-submitted documentation before it is published.
+      
+      - role: Technical Writer
+        time: February 2021 - October 2021
+        company: FM:Systems, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          I worked alongside one senior technical writer to document FM:Systems' four product lines.
+            - Collaborated with development teams, product management, and others to create product documentation, release notes, and other documentation artifacts.
+            - Advocated for web-based documentation to company executives.
+            - Lead the department’s move from MadCap Flare to a docs-as-code environment.
+
+      - role: Technical Writing Intern
+        time: Summer 2020
+        company: Red Hat, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Tested and revised out-of-date cloud-computing documentation.
+            - Collaborated with engineering, support, and quality control teams to gather and refine new requirements for accessible, customer-facing documentation.
+            - Participated in internal courses and presentations related to minimalistic documentation and flexible customer content.
 projects:
     title: Projects
     intro: >
@@ -134,44 +111,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Google Season of Docs Project
+        link: "https://opensource.googleblog.com/2021/01/season-of-docs-announces-results-of.html"
+        tagline: "I rewrote existing teacher-focused OpenSCAD documentation and created a set of lesson plans using OpenSCAD geared toward elementary-aged students."
 
-      - title: DevStudio
+      - title: Write the Docs Book Club
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "I participate in the book club hosted by Write the Docs."
 
 publications:
     title: Publications
@@ -180,41 +126,36 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: The Hazards and Risks Assosciated with Crane and Hoist Side Pulls
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Albert Weaver III, Isabella Goss, Megan Haase, James McCal
+        conference: American Academy of Safety Professionals, March 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Developer Documentation
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: End-User Documentation
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: API Documentation
+        level: 75%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Javascript
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: XML
         level: 60%
 
 footer: >
