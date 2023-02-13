@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Isabella Goss
     tagline: Technical Writer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: hs.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: forstisabella@gmail.com
-    phone: ‪804 413 6659‬
+    phone: 804 413 6659
     timezone: America/New York Timezone
     citizenship:
     website:  #do not add http://
@@ -37,9 +37,6 @@ sidebar:
 
         - idiom: German
           level: Professional
-
-        - idiom:
-          level:
 
     interests:
       title: Interests
@@ -70,10 +67,6 @@ education:
          While on campus, I served as the president of the residence hall assosciation, logged over 100+ volunteer hours on and around campus, and worked for three on-campus departments!
             - Bullet point
             - Bullet point
-      - degree:
-        university:
-        time:
-        details: |
         
 experiences:
     title: Experiences
@@ -95,7 +88,7 @@ experiences:
           I worked alongside one senior technical writer to document FM:Systems' four product lines.
             - Collaborated with development teams, product management, and others to create product documentation, release notes, and other documentation artifacts.
             - Advocated for web-based documentation to company executives.
-            - Lead the department’s move from MadCap Flare to a docs-as-code environment.
+            - Lead the department's move from MadCap Flare to a docs-as-code environment.
 
       - role: Technical Writing Intern
         time: Summer 2020
@@ -107,9 +100,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Outside of my day-to-day work at Twilio, I participate in the broader technical writing community.
     assignments:
       - title: Google Season of Docs Project
         link: "https://opensource.googleblog.com/2021/01/season-of-docs-announces-results-of.html"
@@ -117,7 +108,7 @@ projects:
 
       - title: Write the Docs Book Club
         link: "#"
-        tagline: "I participate in the book club hosted by Write the Docs."
+        tagline: "I participate in the book club hosted by Write the Docs. This month's book is "It Was the Best of Sentences, It Was the Worst of Sentences" by Julie Casagrande!
 
 publications:
     title: Publications
