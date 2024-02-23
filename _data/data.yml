@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -64,9 +65,24 @@ education:
         university: NC State University
         time: 2017-2021
         details: |
-         With a major in Graphics Communications and two minors in Technical and Scientific Communication and Science Communication, I spent four years living and learning on NC State's Main campus.
-         While on campus, I served as the president of the residence hall association, logged over 100+ volunteer hours on and around campus, and worked for three on-campus departments!
-        
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     title: Experiences
     info:
@@ -101,9 +117,13 @@ experiences:
         time: Summer 2020
         company: Red Hat, Remote
         details: |
-            - Tested and revised out-of-date cloud-computing documentation.
-            - Collaborated with engineering, support, and quality control teams to gather and refine new requirements for accessible, customer-facing documentation.
-            - Participated in internal courses and presentations related to minimalistic documentation and flexible customer content.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 projects:
     title: Projects
     intro: >
