@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -36,24 +36,24 @@ sidebar:
           level: Native
 
         - idiom: German
-          level: Professional
+          level: Conversational
 
     interests:
       title: Interests
       info:
-        - item: Hand Embroidery
+        - item: Accessibility
           link:
 
-        - item: Baking
+        - item: Cloud Computing
           link:
 
-        - item: Reading
+        - item: Docs Tooling
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am an early-career technical writer with two years of software documentation experience. 
+      I am a technical writer with three years of software documentation experience. 
       I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. 
       I'm a multifaceted technical communicator: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
 education:
@@ -64,7 +64,7 @@ education:
         time: 2017-2021
         details: |
          With a major in Graphics Communications and two minors in Technical and Scientific Communication and Science Communication, I spent four years living and learning on NC State's Main campus.
-         While on campus, I served as the president of the residence hall assosciation, logged over 100+ volunteer hours on and around campus, and worked for three on-campus departments!
+         While on campus, I served as the president of the residence hall association, logged over 100+ volunteer hours on and around campus, and worked for three on-campus departments!
             - Bullet point
             - Bullet point
         
@@ -75,11 +75,12 @@ experiences:
         time: October 2021 - Present
         company: Twilio Segment, Remote
         details: |
-          I currently document Segment's ingestion and processing, governance, and foundations product areas. 
+          I currently document Segment's Ingestion and Processing, Governance, and Foundations product areas. 
           Responsibilities of the job include:
             - Distilling information from various sources to produce concise, accurate, and timely product and API documentation.
             - Identifying and addressing areas of improvement within existing documentation.
             - Leading reviews of peer- and contributor-submitted documentation before it is published.
+            - Examples of my documentation: [Delivery Overview](https://segment.com/docs/connections/delivery-overview/) and [Consent Management](https://segment.com/docs/privacy/consent-management/)
       
       - role: Technical Writer
         time: February 2021 - October 2021
@@ -88,8 +89,16 @@ experiences:
           I worked alongside one senior technical writer to document FM:Systems' four product lines.
             - Collaborated with development teams, product management, and others to create product documentation, release notes, and other documentation artifacts.
             - Advocated for web-based documentation to company executives.
-            - Lead the department's move from MadCap Flare to a docs-as-code environment.
+            - Led the department's move from MadCap Flare to a docs-as-code environment.
 
+     - role: Technical Communications Intern
+        time: Summer 2020
+        company: Red Hat, Remote
+        details: |
+            - Tested and revised out-of-date cloud-computing documentation.
+            - Collaborated with engineering, support, and quality control teams to gather and refine new requirements for accessible, customer-facing documentation.
+            - Participated in internal courses and presentations related to minimalistic documentation and flexible customer content.
+            
       - role: Technical Writing Intern
         time: Summer 2020
         company: Red Hat, Remote
@@ -106,35 +115,29 @@ projects:
         link: "https://opensource.googleblog.com/2021/01/season-of-docs-announces-results-of.html"
         tagline: "I rewrote existing teacher-focused OpenSCAD documentation and created a set of lesson plans using OpenSCAD geared toward elementary-aged students."
 
-      - title: Write the Docs Book Club
-        link: "#"
-        tagline: "I participate in the book club hosted by Write the Docs. This month's book is "It Was the Best of Sentences, It Was the Worst of Sentences" by Julie Casagrande!
-
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      As part of my work as a Technical Communications Intern at L.A. Weaver Company, Inc., I participated in the writing and publishing of two peer-reviewed journal articles. 
     papers:
-      - title: The Hazards and Risks Assosciated with Crane and Hoist Side Pulls
-        link: "#"
-        authors: Albert Weaver III, Isabella Goss, Megan Haase, James McCal
+      - title: The Hazards and Risks Associated with Crane and Hoist Side Pulls
+        link: "https://onepetro.org/PS/article-abstract/66/03/22/460293/Craine-amp-Hoist-Sidepulls-Hazards-Risks-amp?redirectedFrom=fulltext"
+        authors: Albert Weaver III, Isabella Forst, Megan Haase, James McCall, Grace Callahan, Ashley Hearn
         conference: American Academy of Safety Professionals, March 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Pedestrian Walkways: Hidden Hazards Related to Common Landscaping Practices
+        link: "https://onepetro.org/PS/article-abstract/67/07/14/494243/Pedestrian-Walkways-Hidden-Hazards-Related-to?redirectedFrom=fulltext"
+        authors: Albert Weaver III, Drew Diserafino, William Ojiambo, Jessica Kemp, Isabella Goss
+        conference:  American Academy of Safety Professionals, July 2022
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies
 
     toolset:
       - name: Developer Documentation
         level: 98%
 
-      - name: End-User Documentation
+      - name: Static Site Generators
         level: 98%
 
       - name: API Documentation
